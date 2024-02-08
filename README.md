@@ -3,11 +3,11 @@
 Hi 👋
 Welcome to my Github
 <hr /><b>-------------- Links --------------</b>
- | > <a href="https://troll.avunit.tk">Meme</a>                      | 
- | > <a href="https://blog.avunit.tk">Blog</a>                      | 
- | > <a href="https://avunit.tk">Website</a>                   | 
+ | > <a href="https://troll.avunit.tk">DEAD LINK</a>                      | 
+ | > <a href="https://blog.avunit.tk">DEAD LINK</a>                      | 
+ | > <a href="https://avunit.tk">DEAD LINK</a>                   | 
 <b>----------------------------------</b>
 
 <div align="center">
-  <sub>I use Arch btw. hehe</sub>
+  <sub>Linux user.</sub>
 </div>
