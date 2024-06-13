@@ -2,7 +2,4 @@
 <pre><div align="center">
 Hi 👋
 Welcome to my Github
-
-<div align="center">
-  <sub>Linux user.</sub>
 </div>
