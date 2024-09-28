@@ -3,7 +3,7 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### ⚙️ Known languages: 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=1000&pause=750&color=5522F7&random=false&width=435&lines=Python;Basics+in+java/JS;HTML;CSS;Basics+in+C++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=1000&pause=750&color=5522F7&random=false&width=435&lines=Python;Basics+in+java/JS;HTML;CSS;Basics+in+CPP)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
