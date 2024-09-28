@@ -1,5 +1,6 @@
-★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=50&duration=3000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=AVUNIT)](https://github.com/avunit1)
 
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### ⚙️ Mastered languages: 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=1000&pause=750&color=5522F7&random=false&width=435&lines=Python;Basics+in+javascript;HTML;CSS;Basics+in+CPP)](https://git.io/typing-svg)
@@ -18,17 +19,17 @@
  [+] author: avunit
  [+] owner: avunit
  ```
- 
+
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
  > ### 🎈 Socials 
  
-|❤️ [Discord](https://discord.com/users/472369390801780736) |
-|❤️ [Instagram](https://www.instagram.com/_edi_36/)         |
- 
+|🌀 [Discord](https://discord.com/users/472369390801780736) |
+|❤️ [Instagram](https://www.instagram.com/_edi_36/)        |
+|♻️ [Telegram](https://t.me/avunit1)                       |
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
- > Made by avunit - README.md v.1.0
+ > Made by avunit - README.md v.1.2
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
