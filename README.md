@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=50&duration=3000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=AVUNIT)](https://github.com/avunit1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=4000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=AVUNIT)](https://github.com/avunit1)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
